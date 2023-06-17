@@ -3,13 +3,16 @@ import Image from "next/image";
 
 export default function Header() {
     return (
-        <div className="flex w-full h-full items-start justify-end">
-            <a href="">
+        <div className="flex w-full h-50 items-start justify-end m-5 absolute pointer-events-auto">
+            <a
+                href="https://github.com/determinationlove/PixiJS-Quick-Graphics"
+                target="_blank"
+            >
                 <Image
-                    src="/github-mark.svg"
+                    src="/github-mark-white.svg"
                     width={50}
                     height={50}
-                    className="mx-5"
+                    className="mx-5  transition duration-200 hover:scale-125"
                 />
             </a>
         </div>
