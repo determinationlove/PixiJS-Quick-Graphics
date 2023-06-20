@@ -82,7 +82,7 @@ export default function PixiJS_QuickGraphics() {
                 <h1 className="flex flex-row text-5xl text-gray-50 font-extrabold">
                     兄弟，在這裡啵兒快設計你的
                     <Image
-                        src="/pixijs.svg"
+                        src="/PixiJS-Quick-Graphics/pixijs.svg"
                         width={110}
                         height={200}
                         className="mx-5"

@@ -9,7 +9,7 @@ export default function Header() {
                 target="_blank"
             >
                 <Image
-                    src="/github-mark-white.svg"
+                    src="/PixiJS-Quick-Graphics/github-mark-white.svg"
                     width={50}
                     height={50}
                     className="mx-5  transition duration-200 hover:scale-125"
