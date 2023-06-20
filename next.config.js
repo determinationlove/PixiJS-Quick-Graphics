@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    basePath: "/gh-pages",
+    basePath: "/master",
     experimental: {
         appDir: true,
     },
