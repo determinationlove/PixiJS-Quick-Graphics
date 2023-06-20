@@ -101,7 +101,7 @@ export default function PixiJS_QuickGraphics() {
             </div>
 
             <div className="flex flex-row w-max min-w-max h-max">
-                <div className=" flex flex-col mx-20 w-72 text-xl">
+                <div className=" flex flex-col mx-20 w-72 text-xl text-black">
                     寬度設定（橫）：
                     <input type="number" ref={inputRefX} className="mb-5" />
                     高度設定（直）：
