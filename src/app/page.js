@@ -101,11 +101,11 @@ export default function PixiJS_QuickGraphics() {
             </div>
 
             <div className="flex flex-row w-max min-w-max h-max">
-                <div className=" flex flex-col mx-20 w-72 text-xl text-black">
+                <div className=" flex flex-col mx-20 w-72 text-xl ">
                     寬度設定（橫）：
-                    <input type="number" ref={inputRefX} className="mb-5" />
+                    <input type="number" ref={inputRefX} className="mb-5 text-black"  />
                     高度設定（直）：
-                    <input type="text" ref={inputRefY} className="mb-5" />
+                    <input type="text" ref={inputRefY} className="mb-5 text-black" />
                     <button
                         className=" bg-gradient-to-r from-cyan-400 via-cyan-500 to-cyan-600 hover:bg-gradient-to-br ring-4 ring-cyan-300 focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 shadow-cyan-500/50  font-bold py-2 px-4 rounded my-5 text-lg"
                         onClick={updateContainerSize}
