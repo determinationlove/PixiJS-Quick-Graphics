@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    basePath: '/PixiJS-Quick-Graphics',
+    basePath: '/pixiJS-Quick-Graphics',
 };
 
 module.exports = nextConfig;
