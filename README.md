@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Getting Started
+# Pixi.JS Quick Graphics 圖形快速設計工具
 
-First, run the development server:
+<div align="center">
+  <a href="https://github.com/determinationlove/Baha_MasonryLayout">
+    <img src="https://determinationlove.github.io/PixiJS-Quick-Graphics/pixijs.svg" alt="Logo" width="50%" height="50%">
+  </a>
+  
+</div>
+</p>
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+幫助 Pixi 開發者快速設計出 Pixi Graphics 而不需通靈頂點陣列，以 Next.JS 製作，CSS 使用 Tailwind 框架
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Demo: [Pixi.JS Quick Graphics 圖形快速設計工具](https://determinationlove.github.io/PixiJS-Quick-Graphics/)
 
-## Learn More
+### Built With
 
-To learn more about Next.js, take a look at the following resources:
+[![React][React.js]][React-url]
+[![NextJS]][NextJS-url]
+[![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/determinationlove/PixiJS-Quick-Graphics.svg?style=for-the-badge
+[contributors-url]: https://github.com/determinationlove/PixiJS-Quick-Graphics/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/determinationlove/PixiJS-Quick-Graphics.svg?style=for-the-badge
+[forks-url]: https://github.com/determinationlove/PixiJS-Quick-Graphics/network/members
+[stars-shield]: https://img.shields.io/github/stars/determinationlove/PixiJS-Quick-Graphics.svg?style=for-the-badge
+[stars-url]: https://github.com/determinationlove/PixiJS-Quick-Graphics/stargazers
+[issues-shield]: https://img.shields.io/github/issues/determinationlove/PixiJS-Quick-Graphics.svg?style=for-the-badge
+[issues-url]: https://github.com/determinationlove/PixiJS-Quick-Graphics/issues
+[license-shield]: https://img.shields.io/github/license/determinationlove/PixiJS-Quick-Graphics.svg?style=for-the-badge
+[license-url]: https://github.com/determinationlove/PixiJS-Quick-Graphics/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/幽冥-燐火-a08229237
+[product-screenshot]: images/screenshot.png
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[NextJS]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[NextJS-url]: https://nextjs.org/
+[Tailwindcss.com]:https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwindcss-url]: https://tailwindcss.com/
+[TypeScript.com]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
